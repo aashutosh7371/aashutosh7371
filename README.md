@@ -120,7 +120,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](www.linkedin.com/in/aashutosh1810)
+[![LinkedIn](https://www.linkedin.com/in/aashutosh1810/)
 
 </div>
 
